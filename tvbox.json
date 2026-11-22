@@ -4,17 +4,12 @@
     {
       "key": "ffzy",
       "name": "非凡资源",
-      "type": 3,
+      "type": 1,
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     }
   ],
-  "lives": [
-    {
-      "name": "央视卫视",
-      "url": "https://live.zbds.top/tv/iptv4.txt"
-    }
-  ]
+  "lives": []
 }
